@@ -1,0 +1,22 @@
+{
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "司机配送",
+		"navigationBarBackgroundColor": "#4a9ff8",
+		"backgroundColor": "#4a9ff8"
+	},
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/echarts/echarts",
+			"style": {
+				"navigationBarTitleText": "echarts"
+			}
+		}
+	]
+}
