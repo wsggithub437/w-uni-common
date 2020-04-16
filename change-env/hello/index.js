@@ -1,7 +1,7 @@
 module.exports = {
 	globalStyle: {
 		navigationBarTextStyle: 'white',
-		navigationBarTitleText: '司机配送',
+		navigationBarTitleText: 'hello',
 		navigationBarBackgroundColor: '#4a9ff8',
 		backgroundColor: '#4a9ff8'
 	}

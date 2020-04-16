@@ -1,2 +1,5 @@
 node_modules/
 unpackage/
+config.json
+pages.json
+uni.scss
